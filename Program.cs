@@ -32,8 +32,15 @@ class Program
         }
     }
 
-    static void HandleClient(object obj)
+    static void HandleClient(object? obj)
     {
+        if (obj == null)
+    {
+        // Gestion du cas où obj est null
+        Console.WriteLine("Objet nul passé à HandleClient.");
+        return;
+    }
+
         // Récupération du client TCP à partir du paramètre d'objet
         TcpClient tcpClient = (TcpClient)obj;
 
