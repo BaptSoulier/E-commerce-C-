@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djebr\\Desktop\\Csharp_Ecomerce\\Csharp_Ecomerce.csproj": {}
+    "C:\\Users\\djebr\\Desktop\\Csharp_Ecomerce\\Web\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\djebr\\Desktop\\Csharp_Ecomerce\\Csharp_Ecomerce.csproj": {
+    "C:\\Users\\djebr\\Desktop\\Csharp_Ecomerce\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djebr\\Desktop\\Csharp_Ecomerce\\Csharp_Ecomerce.csproj",
-        "projectName": "Csharp_Ecomerce",
-        "projectPath": "C:\\Users\\djebr\\Desktop\\Csharp_Ecomerce\\Csharp_Ecomerce.csproj",
+        "projectUniqueName": "C:\\Users\\djebr\\Desktop\\Csharp_Ecomerce\\Web\\Web.csproj",
+        "projectName": "Web",
+        "projectPath": "C:\\Users\\djebr\\Desktop\\Csharp_Ecomerce\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\djebr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djebr\\Desktop\\Csharp_Ecomerce\\obj\\",
+        "outputPath": "C:\\Users\\djebr\\Desktop\\Csharp_Ecomerce\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\djebr\\AppData\\Roaming\\NuGet\\NuGet.Config"

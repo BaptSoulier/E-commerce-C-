@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AuTBtxS2rP2ZDM3icF/Qvo4fYB2xEq2xIw/ROMC2w2fW64TCPdCTxvlGLr6kMujtWYe7NApbyB7KwzeAye0F8Q==",
+  "dgSpecHash": "FGJEFD6hP4ceKShgm/Yxr39f0NKV3UHlQtPCgaYn/sR8sWPoY9JNW1WpxmuaOs5QOSl8JBWyPLqNztfkQAIXjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\djebr\\Desktop\\E-commerce-C-\\Csharp_Ecomerce.csproj",
+  "projectFilePath": "C:\\Users\\djebr\\Desktop\\Csharp_Ecomerce\\Csharp_Ecomerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\djebr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

@@ -1,0 +1,17 @@
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\bin\Debug\net8.0\Web.exe
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\bin\Debug\net8.0\Web.deps.json
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\bin\Debug\net8.0\Web.runtimeconfig.json
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\bin\Debug\net8.0\Web.dll
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\bin\Debug\net8.0\Web.pdb
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\obj\Debug\net8.0\Web.csproj.CopyComplete
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\obj\Debug\net8.0\Web.dll
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\obj\Debug\net8.0\refint\Web.dll
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\obj\Debug\net8.0\Web.pdb
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\obj\Debug\net8.0\Web.genruntimeconfig.cache
+C:\Users\djebr\Desktop\Csharp_Ecomerce\Web\obj\Debug\net8.0\ref\Web.dll
