@@ -41,4 +41,4 @@ Docker est une plateforme de conteneur qui permet de créer facilement des conte
 
 # Organisation sur Trello
 
-   - https://github.com/BaptSoulier/E-commerce-C-.git
+   - https://trello.com/b/gPKker10/c
